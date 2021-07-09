@@ -8,7 +8,7 @@ When not sitting in front of a computer-screen I spend my days language learning
 
 ### What I'm doing now
 
-- 🔭 I’m currently working on a social-connects focused [Matchmaker App](https://github.com/simonaus/matchmaker) using React Native
+- 🔭 I’m currently working on a social-connections focused [Matchmaker App](https://github.com/simonaus/matchmaker) using React Native
 - 💬 Ask me about React Native and React Native testing philosophies
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've called the UK home for nearly 4 years 
