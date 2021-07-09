@@ -15,10 +15,10 @@ When not sitting in front of a computer-screen I spend my days language learning
 
 ### My Favourite Languages and tools
 
-<code><img height="40" alt="Typescript" src="https://github.com/remojansen/logo.ts/blob/master/ts.png"></code>
+<code><img height="40" alt="Typescript" src="https://user-images.githubusercontent.com/66684013/125089221-1d9e6b80-e0c6-11eb-8433-58cb2c278a6e.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="React Testing Library and Jest" src="https://avatars0.githubusercontent.com/u/49996085?s=200&v=4"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" alt="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
+<code><img height="40" alt="GraphQL" src="https://user-images.githubusercontent.com/66684013/125089557-5dfde980-e0c6-11eb-99c4-0e8cb63536a2.png"></code>
 <code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
