@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Simon, a full-stack developer in London
+## Hi there , I'm Simon, a full-stack developer in London
 
 Currently I'm a software craftsperson at Codurance working hard with our clients to build clean, sustainable and effective code. 
 
